@@ -1,0 +1,27 @@
+{
+  "tool": "NetRadar",
+  "version": "1.0.0",
+  "scan_time": "2026-11-07 13:09:39",
+  "network": "10.191.211.0/24",
+  "iface": "WLAN 2",
+  "local_ip": "10.191.211.79",
+  "scanned": 254,
+  "alive": 1,
+  "elapsed_ms": 5319,
+  "hosts": [
+    {
+      "ip": "10.191.211.233",
+      "mac": "BE:16:62:32:ED:88",
+      "vendor": "",
+      "hostname": "",
+      "rtt_ms": null,
+      "methods": ["ARP"],
+      "ports": [
+        {"port": 25, "service": "smtp", "banner": ""},
+        {"port": 53, "service": "domain", "banner": ""},
+        {"port": 110, "service": "pop3", "banner": ""},
+        {"port": 143, "service": "imap", "banner": ""}
+      ]
+    }
+  ]
+}

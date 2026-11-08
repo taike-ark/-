@@ -1,0 +1,3 @@
+cargo:rustc-link-arg=C:/Windows/System32/gdi32.dll
+cargo:rustc-link-arg=C:/Windows/System32/gdiplus.dll
+cargo:rerun-if-changed=build.rs
