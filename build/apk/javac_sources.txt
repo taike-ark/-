@@ -1,0 +1,6 @@
+"F:\\gonzuoqu\\netradar\\android\\src\\com\\netradar\\app\\CaptureService.java"
+"F:\\gonzuoqu\\netradar\\android\\src\\com\\netradar\\app\\MainActivity.java"
+"F:\\gonzuoqu\\netradar\\android\\src\\com\\netradar\\app\\NativeRunner.java"
+"F:\\gonzuoqu\\netradar\\android\\src\\com\\netradar\\app\\RadarView.java"
+"F:\\gonzuoqu\\netradar\\android\\src\\com\\netradar\\app\\SignalBars.java"
+"F:\\gonzuoqu\\netradar\\build\\apk\\gen\\com\\netradar\\app\\R.java"

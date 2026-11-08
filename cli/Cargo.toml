@@ -1,0 +1,11 @@
+[package]
+name = "netradar"
+version = "1.0.0"
+edition = "2021"
+
+[[bin]]
+name = "netradar-cli"
+path = "src/main.rs"
+
+[dependencies]
+netradar-core = { path = "../core" }

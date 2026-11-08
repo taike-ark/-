@@ -1,0 +1,11 @@
+[package]
+name = "netradar-core"
+version = "1.0.0"
+edition = "2021"
+description = "NetRadar network discovery & packet capture engine (zero dependencies)"
+
+[lib]
+name = "netradar_core"
+path = "src/lib.rs"
+
+[dependencies]
